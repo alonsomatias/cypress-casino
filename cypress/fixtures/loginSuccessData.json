@@ -1,0 +1,19 @@
+[
+  {
+    "descrption": "Promo Code",
+    "email": "promoMail@cypress.io",
+    "password": "Pass123",
+    "country": "Bolivia",
+    "currency": "EUR",
+    "promoCode": "promoCode"
+  },
+  {
+    "descrption": "Not Promo Code",
+    "email": "unPromoMail@cypress.io",
+    "password": "Pass123",
+    "country": "Argentina",
+    "currency": "ILS"
+  }
+]
+
+  

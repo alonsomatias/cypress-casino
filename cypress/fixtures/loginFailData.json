@@ -1,0 +1,8 @@
+[
+    {
+        "descrption": "Wrong Pass and Email",
+        "email": "wrongFormat",
+        "password": "Pass123",
+        "repeatPass": "Pass321"
+    }
+]
